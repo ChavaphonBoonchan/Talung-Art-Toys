@@ -1,0 +1,335 @@
+/* General Styles */
+body {
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(0, 0, 0, 0.8));
+    background-attachment: fixed;
+    background-size: cover;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* ตัวแปร CSS สำหรับธีม */
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --gray-light: rgba(255, 255, 255, 0.8);
+    --gray-dark: rgba(0, 0, 0, 0.8);
+    --text-color: rgba(0, 0, 0, 0.8);
+    --accent-color: rgba(255, 255, 255, 0.7);
+    --content-bg: rgba(255, 255, 255, 0.5);
+    --border-color: rgba(255, 255, 255, 0.2);
+}
+
+.dark-theme {
+    --white: #f0f0f0;
+    --black: #1a1a1a;
+    --gray-light: rgba(255, 255, 255, 0.5);
+    --gray-dark: rgba(0, 0, 0, 0.9);
+    --text-color: rgba(255, 255, 255, 0.9);
+    --accent-color: rgba(0, 0, 0, 0.7);
+    --content-bg: rgba(0, 0, 0, 0.6);
+    --border-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Header */
+.header {
+    text-align: center;
+    padding: 20px;
+    background: var(--content-bg);
+    color: var(--text-color);
+    border-bottom: 1px solid var(--border-color);
+    backdrop-filter: blur(10px);
+    position: relative;
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--text-color);
+}
+
+.header p {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    color: var(--text-color);
+}
+
+.language-toggle {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background: none;
+    border: 2px solid var(--text-color);
+    color: var(--text-color);
+    border-radius: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+.language-toggle:hover {
+    background-color: var(--text-color);
+    color: var(--white);
+}
+
+/* ปุ่ม PDF */
+.button-pdf {
+    display: inline-block;
+    background: var(--content-bg);
+    color: var(--text-color);
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 20px;
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--border-color);
+}
+
+.button-pdf:hover {
+    background-color: var(--text-color);
+    color: var(--white);
+    transform: scale(1.1);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Content Section */
+.content-section {
+    padding: 60px 20px;
+    text-align: center;
+    background: var(--content-bg);
+    color: var(--text-color);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    transition: background 0.3s, color 0.3s;
+}
+
+.content-section h1, .content-section h2 {
+    color: var(--text-color);
+    margin-bottom: 20px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.content-section p {
+    color: var(--text-color);
+    font-size: 1.2rem;
+    line-height: 1.8;
+    animation: fadeIn 1.2s ease;
+    transition: color 0.3s;
+}
+
+/* Product List */
+.content-section .product-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Product Section */
+.product-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    max-width: 1200px;
+    padding: 20px;
+    background: var(--content-bg);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    transition: background 0.3s, color 0.3s;
+}
+
+.product-gallery img {
+    max-width: 100%; /* จำกัดขนาดภาพไม่ให้เกินกรอบ */
+    height: auto; /* รักษาสัดส่วน */
+    max-height: 400px; /* จำกัดความสูงสูงสุด */
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+    animation: fadeIn 1.5s ease;
+    margin-bottom: 20px;
+    object-fit: contain; /* จัดการขนาดภาพให้พอดีกับกรอบ */
+}
+
+
+.thumbnails {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.thumbnails img {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border: 2px solid var(--border-color);
+    border-radius: 5px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.thumbnails img:hover {
+    transform: scale(1.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Product Info */
+.product-info {
+    margin: 20px;
+    text-align: center;
+    color: var(--text-color);
+}
+
+.product-info h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.product-info p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: var(--text-color);
+}
+
+/* Product Details Section */
+.product-details {
+    margin: 50px auto;
+    max-width: 1200px;
+    padding: 20px;
+    text-align: center;
+    background: var(--content-bg);
+    color: var(--text-color);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1.2s ease;
+}
+
+.product-details h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: var(--text-color);
+}
+
+.product-details .details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.product-details .details img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid var(--border-color);
+}
+
+.product-details .details p {
+    flex: 1;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--text-color);
+    margin-top: 10px;
+}
+.product-item {
+    text-align: center;
+    text-decoration: none;
+    color: var(--text-color);
+    background: var(--content-bg); /* สีพื้นหลังของกรอบ */
+    border: 1px solid var(--border-color); /* ขอบของกรอบ */
+    border-radius: 10px; /* มุมมน */
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* เงาเบาๆ */
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 220px; /* ความกว้างของกรอบ */
+    overflow: hidden; /* ซ่อนส่วนที่เกิน */
+}
+
+.product-item img {
+    width: 100%; /* รูปภาพเต็มกรอบ */
+    height: auto; /* รักษาสัดส่วน */
+    max-height: 150px; /* จำกัดความสูง */
+    object-fit: cover; /* ตัดส่วนที่เกินโดยไม่เสียสัดส่วน */
+    border-radius: 8px; /* มุมมน */
+    margin-bottom: 10px; /* ระยะห่างจากข้อความ */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* เพิ่มเงาให้ภาพ */
+}
+
+.product-item h3 {
+    margin: 0;
+    font-size: 1rem;
+    color: var(--text-color);
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+a {
+    text-decoration: none; /* ลบขีดเส้นใต้ */
+    color: inherit; /* ให้สีเหมือนกับองค์ประกอบที่ครอบ */
+}
+
+a:hover {
+    text-decoration: none; /* ลบขีดเส้นใต้เมื่อวางเมาส์ */
+}
+
+
+
+
+.product-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+    .details {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .details img {
+        margin-bottom: 10px;
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .details p {
+        text-align: center;
+        padding: 0 10px;
+    }
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

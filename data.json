@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "th-th": "อ้ายหนูนุ้ย",
+            "en-en": "Ai Nuu Nuy"
+        },
+        "title": {
+            "th-th": "อ้ายหนูนุ้ย",
+            "en-en": "Ai Nuu Nuy"
+        },
+        "description": {
+            "th-th": "ตัวตลกที่จำลองมาจากคนจริง",
+            "en-en": "A clown modeled after a real person"
+        },
+        "images": [
+            "./pic/m1/IMG20241121145111.jpg",
+            "./pic/m1/product1-2.jpg",
+            "./pic/m1/product1-3.jpg"
+        ],
+    "details": [
+    {
+        "image": "./pic/m1/IMG20241121145111.jpg",
+        "text": {
+            "th-th": "อ้ายหนูนุ้ยเป็นตัวตลกที่จำลองมาจากคนจริง ซึ่งเป็นคนไม่เต็มเต็งที่เคยเตร็ดเตร่อยู่แถวคลองขวาง จังหวัดสงขลา ครั้นนายหนัง 'นุ้ยหมาตาย' เห็นเข้าก็เกิดอารมณ์ขัน จึงนำลักษณะมาตัดเป็นรูปหนังตะลุง ชาวบ้านจึงเรียกรูปตัวตลกนี้ว่า 'หนูนุ้ย' ตามชื่อนายหนังผู้ริเริ่ม ลักษณะ ผิวดำ ลำตัวเตี้ย กันเชิด พุงยานและโย้ คอแข็ง หน้าแหลมยาวยื่นคล้ายหน้าวัว เส้นผมพันไปข้างหน้าคล้ายแส้ม้า มีขนใต้คาง และมีขนยาวห้อยเป็นกระจุก มักถูกตัวตลกอื่น ๆ ล้อเลียนว่ามีพ่อเป็นวัว ชอบนุ่งผ้าไม่มีลาย ไม่สวมเสื้อ เท้าเปลือย มือซ้ายถือกรรไกรหนีบหมากเป็นอาวุธประจำกาย นิสัย ไม่ค่อยเป็นตัวของตัวเอง เชื่อคนง่าย คล้อยตามคนยุยงส่งเสริม แสดงความเบาปัญญาให้เป็นที่ขบขันของคนอื่น ขวัญอ่อน ตกใจง่าย เก็บความลับไม่ได้ พูดเสียงต่ำสั่นเครือ หากเสียงขึ้นนาสิก",
+            "en-en": "Ai Nuu Nuy is a clown inspired by a real person. He was a slightly eccentric man wandering near Khlong Kwang, Songkhla Province. 'Nui Ma Tai,' a shadow puppet master, found his quirks amusing and created a puppet character based on him. Villagers named the puppet 'Nuu Nuy' after the master. Characteristics: dark skin, short stature, protruding belly, stiff neck, and long, sharp face resembling a cow. He has forward-flowing hair like a horse’s mane and tufted chin hair. Often mocked by other clowns for supposedly having a cow father, he wears unpatterned cloth without a shirt and carries a betel nut cutter. Personality: gullible, easily swayed, simple-minded, and often the subject of ridicule. He is easily startled, cannot keep secrets, and speaks in a low, nasal voice."
+        }
+    }
+    ]
+
+    },
+    {
+        "id": 2,
+        "name": {
+            "th-th": "อ้ายเท่ง",
+            "en-en": "Ai Teng"
+        },
+        "title": {
+            "th-th": "อ้ายเท่ง",
+            "en-en": "Ai Teng"
+        },
+        "description": {
+            "th-th": "ตัวละครที่เป็นตัวตลกหลักในหนังตะลุง",
+            "en-en": "A main clown character in shadow puppet"
+        },
+        "images": [
+            "./pic/m2/225685.jpg",
+            "./pic/m2/product2-2.jpg",
+            "./pic/m2/product2-3.jpg"
+        ],
+"details": [
+    {
+        "image": "./pic/m2/225685.jpg",
+        "text": {
+            "th-th": "อ้ายเท่งสร้างมาจากชาวบ้านคนหนึ่งชื่อ นายเท่ง อยู่บ้านคูขุด อำเภอสะทิ้งพระ จังหวัดสงขลา มีอาชีพหากุ้งฝอยริมทะเลสาบสงขลาให้ภรรยาชื่อเสียบทำกุ้งส้มขาย นายหนังจวนดุษฎีตัดรูปอ้ายเท่ง โดยอ้างอิงลักษณะรูปร่างและนิสัยจากนายเท่ง ลักษณะ ผอมบาง สูงโย่ง ท่อนบนยาวกว่าท่อนล่าง ผิวดำ ปากกว้าง หัวเถิก ผมหยิกงอ หน้าคล้ายนกกระฮัง นิ้วชี้มือขวายาวโตคล้ายอวัยวะเพศชาย นิ้วชี้กับนิ้วหัวแม่มือซ้ายหงิกงอเป็นวงเข้าหากัน เพราะเป็นโรคคุดทะราด ชอบนุ่งผ้าโสร่งลายลูกหมู คาดพุงด้วยผ้าสักหลาด ไม่สวมเสื้อ ที่สะเอวเหน็บมีดอ้ายครก นิสัย เป็นคนตลกคะนอง เสียงดัง พูดจาโผงผางแบบขวานผ่าซาก ไม่เกรงกลัวใคร ชอบพูดข่มขู่ผู้อื่น ล้อเลียนเก่ง แฝงความฉลาดในความโง่ ชอบขับกลอน และมักทำงานร่วมกับอ้ายหนูนุ้ย",
+            "en-en": "Ai Teng is a character based on a villager named Teng from Ku Khut, Sathing Phra District, Songkhla Province. Teng earned his living by catching tiny shrimp near Songkhla Lake, which his wife, Siab, used to make sour shrimp paste for sale. The shadow puppet master Juan Dusadee created the Ai Teng character based on Teng’s appearance and personality. Characteristics: slim, tall, with a longer upper body compared to the lower part, dark skin, wide mouth, receding hairline, curly hair, and a face resembling a heron. His right index finger is unusually large, resembling a male organ, and his left index and thumb are deformed into a hooked shape due to a chronic disease. He often wears a pig-patterned sarong with a felt waistband, goes shirtless, and carries a traditional knife at his waist. Personality: jovial and loud, he speaks bluntly without fear. He enjoys mocking others, blending wit with apparent foolishness. He often recites poetry and works closely with Ai Nuu Nuy."
+        }
+    }
+]
+
+    },
+    {
+        "id": 3,
+        "name": {
+            "th-th": "อ้ายขวัญเมือง",
+            "en-en": "Ai Kwan Muang"
+        },
+        "title": {
+            "th-th": "อ้ายขวัญเมือง",
+            "en-en": "Ai Kwan Muang"
+        },
+        "description": {
+            "th-th": "ตัวละครที่มีความเป็นเอกลักษณ์เฉพาะตัว",
+            "en-en": "A character with unique personality"
+        },
+        "images": [
+            "./pic/m3/225686.jpg",
+            "./pic/m3/product3-2.jpg",
+            "./pic/m3/product3-3.jpg"
+        ],
+"details": [
+    {
+        "image": "./pic/m3/225686.jpg",
+        "text": {
+            "th-th": "อ้ายขวัญเมือง ไม่ทราบประวัติความเป็นมาแน่ชัด แต่มักจะออกคู่กับสะหม้อ ขวัญเมืองนับถือศาสนาพุทธ ส่วนสะหม้อนับถือศาสนาอิสลาม ทำหน้าที่เป็นตัวบอกเรื่องก่อนเริ่มแสดง ลักษณะ หน้าตาคล้ายแพะ ผอมบางค่อนข้างเอน ผิวดำ หัวเถิก ผมหยิกงอ จมูกโด่งยาว ปากกว้าง ตาเฉียง พุงยานโย้ กันเชิดงอน ปลายนิ้วชี้ทู่เพราะเป็นโรคคุดทะราด นุ่งผ้าพื้นดำตัวเดียว มีเข็มขัดหนังหยาบๆคาด ไม่สวมเสื้อ เป็นคนซื่อ ตกใจง่าย ตื่นง่าย บางครั้งก็เจ้ายศเจ้าอย่าง ชอบออดอ้อนให้คนอื่นสงสาร และมักจะพูดด้วยความวิตกกังวล",
+            "en-en": "Ai Kwan Muang’s background is unclear, but he often appears alongside Sahmor. Kwan Muang is a Buddhist, while Sahmor is a Muslim. He serves as the prologue storyteller before performances begin. Characteristics: goat-like face, slim and slightly slouched body, dark skin, receding hairline, curly hair, long prominent nose, wide mouth, slanted eyes, and a sagging belly. His bent posture and blunt fingers are due to a chronic disease. He wears a simple black cloth with a coarse leather belt and no shirt. Personality: honest, easily startled, and timid. At times, he acts overly formal and often seeks sympathy by whining or worrying excessively."
+        }
+    }
+]
+
+    },
+    {
+        "id": 4,
+        "name": {
+            "th-th": "อ้ายสีแก้ว",
+            "en-en": "Ai Si Kaeo"
+        },
+        "title": {
+            "th-th": "อ้ายสีแก้ว",
+            "en-en": "Ai Si Kaeo"
+        },
+        "description": {
+            "th-th": "ตัวละครที่เป็นต้นแบบในงานศิลปะ",
+            "en-en": "A character as an inspiration for art"
+        },
+        "images": [
+            "./pic/m4/225687.jpg",
+            "./pic/m4/product4-2.jpg",
+            "./pic/m4/product4-3.jpg"
+        ],
+"details": [
+    {
+        "image": "./pic/m4/225687.jpg",
+        "text": {
+            "th-th": "อ้ายสีแก้ว เชื่อกันว่าเป็นคนจริง เดิมอยู่บ้านรัดปูน ตำบลเชิงแส อำเภอระโนด จังหวัดสงขลา ซึ่งชาวบ้านเรียกกันติดปากว่า 'ลุงสีแก้ว' เป็นคนมีตบะ มือหนัก หากโกรธใครมักใช้มือตบหรือชนด้วยศีรษะ เป็นคนพูดจริงทำจริง มีคนนับถือมาก ทางการเคยแต่งตั้งให้เป็นผู้ตรวจคนผ่านไปมาระหว่างระโนดกับบ่อยาง (สงขลา) มีความรู้ทางไสยศาสตร์ เวทมนตร์คาถา คงกระพันชาตรี และปฏิบัติตามธรรม ชอบตักเตือนให้ผู้อื่นประพฤติดี (บางแหล่งข้อมูลระบุว่าสีแก้วเป็นผู้คุมนักโทษอยู่ที่เรือนจำพัทลุง) ลักษณะ อ้วนเตี้ย ผิวคล้ำ มีโหนกคอ ศีรษะล้าน มักถูกล้อเลียนเกี่ยวกับความคล้ายพระสงฆ์ การแต่งกาย นุ่งผ้าโจงกระเบนด้วยผ้าลายตาหมากรุกสีดำขาว ไม่สวมเสื้อ และไม่ถืออาวุธใด ๆ พูดจาช้า ๆ ชัดถ้อยชัดคำ เพื่อนคู่หูคือ 'ยอดทอง'",
+            "en-en": "Ai Si Kaeo is believed to be based on a real person originally from Ban Rad Pun, Choeng Sae Subdistrict, Ranot District, Songkhla Province. Villagers affectionately called him 'Uncle Si Kaeo.' Known for his strong presence and heavy-handedness, he was reputed to slap or headbutt when angered. A man of his word, he was highly respected and once appointed by authorities to inspect travelers between Ranot and Boryang (Songkhla). He possessed knowledge of mysticism, spells, and invincibility charms and was a moral guide for others. (Some sources suggest he worked as a prison warden in Phatthalung.) Characteristics: short and stout with dark skin, a humped neck, and a bald head. He was often teased for resembling a monk. Attire: a checkered black-and-white loincloth without a shirt or weapons. He spoke slowly and clearly. His close companion was 'Yod Thong.'"
+        }
+    }
+]
+
+    },
+    {
+        "id": 5,
+        "name": {
+            "th-th": "อ้ายยอดทอง",
+            "en-en": "Ai Yod Thong"
+        },
+        "title": {
+            "th-th": "อ้ายยอดทอง",
+            "en-en": "Ai Yod Thong"
+        },
+        "description": {
+            "th-th": "ตัวละครที่มีความสำคัญในเรื่องเล่า",
+            "en-en": "A significant character in the story"
+        },
+        "images": [
+            "./pic/m5/225688.jpg",
+            "./pic/m5/product5-2.jpg",
+            "./pic/m5/product5-3.jpg"
+        ],
+"details": [
+    {
+        "image": "./pic/m5/225688.jpg",
+        "text": {
+            "th-th": "อ้ายยอดทอง เป็นชาวบ้านธรรมเจดีย์ ตำบลคลองรี อำเภอสะทิ้งพระ จังหวัดสงขลา ในสมัยสมเด็จพระพันวษาแห่งกรุงศรีอยุธยา เคยมาอาศัยอยู่ที่บ้านธรรมเจดีย์ นายยอดทองมีนิสัยชอบคนงามคนสวย และคงเป็นเพราะได้เห็นเจ้านายที่มีความงาม นายยอดทองจึงมีนิสัยชอบเจ้านาย จนเกิดคำติดปากว่า 'ยอดทองบ้านาย' บางคนกล่าวว่าเขามีอาชีพขายพลูที่อำเภอเขาชุมทอง จังหวัดนครศรีธรรมราช โดยบอกว่าเขาชอบนุ่งผ้ายกนคร ลักษณะ อ้วนลงพุง ผิวคล้ำ คางงอนขึ้นบน ผมหยิกเป็นลอน จมูกงอนเชิด ปากบุ๋มคล้ายคนไม่มีฟัน ใบหน้ามีแผลจนเป็นรอยคล้ายหน้าจระเข้ แต่งกายด้วยผ้าโจงกระเบนลาย ไม่สวมเสื้อ และเหน็บกริชเป็นอาวุธประจำกาย นิสัย คุยโอ้อวด ใจเสาะ ขี้ขลาด พูดจาเหลาะแหละ ยกยอตัวเอง ชอบจีบผู้หญิง มีนิสัยเจ้าชู้ และไม่ชอบเผชิญหน้ากับปัญหา",
+            "en-en": "Ai Yod Thong was a resident of Tham Chedi Village, Khlong Ri Subdistrict, Sathing Phra District, Songkhla Province, during the reign of King Phan Vasa of Ayutthaya. He was known for his admiration of beauty, particularly noblewomen, which earned him the nickname 'Yod Thong Ban Nai' (Yod Thong of the Noble’s House). Some accounts claim he was a betel seller in Khao Chum Thong District, Nakhon Si Thammarat, and that he often wore luxurious fabric from Nakhon. Characteristics: overweight with a protruding belly, dark skin, an upturned chin, curly hair, a hooked nose, a sunken mouth resembling someone toothless, and a scarred face likened to a crocodile's skin. He wore patterned loincloths, went shirtless, and carried a kris as his weapon. Personality: boastful, timid, cowardly, and overly self-praising. He enjoyed flirting with women, was quite amorous, and avoided confronting challenges directly."
+        }
+    }
+]
+
+    },
+    {
+        "id": 6,
+        "name": {
+            "th-th": "โถ",
+            "en-en": "Tho"
+        },
+        "title": {
+            "th-th": "โถ",
+            "en-en": "Tho"
+        },
+        "description": {
+            "th-th": "ตัวละครที่ได้รับความนิยมในหมู่คนดู",
+            "en-en": "A popular character among audiences"
+        },
+        "images": [
+            "./pic/m6/225689.jpg",
+            "./pic/m6/product6-2.jpg",
+            "./pic/m6/product6-3.jpg"
+        ],
+"details": [
+    {
+        "image": "./pic/m6/225689.jpg",
+        "text": {
+            "th-th": "โถ ได้แรงบันดาลใจมาจากคนจีน ชาวบ้านพังพัว อำเภอสะทิ้งพระ จังหวัดสงขลา ลักษณะรูปร่าง มีหัวเล็ก ตาโต ถลนกว้าง ริมฝีปากล่างเม้มเข้าไป ส่วนท้องถึงอกใหญ่ แต่ท้องไม่โย้ สวมหมวกมีกระจุกช้างบน หรือบางครั้งนุ่งกางเกงถลกขา ถือมีดปังตอเป็นอาวุธประจำกาย ชอบร้องเพลงที่เกี่ยวกับเรื่องกิน นิสัยเป็นคนเห็นแก่กิน สนใจเรื่องอาหารมากกว่าเรื่องอื่น ขี้ขลาด ตาขาว พูดจาตลก และมักจะโยงทุกเรื่องกลับมาเกี่ยวกับอาหารเสมอ คณะหนังที่นำตัวละครนี้มาแสดงครั้งแรกคือ หนังแสงโถ ต่อมาหนังนครินทร์ ชาทอง นำมาแสดงในบทบาทตัวตลกเอกจนมีชื่อเสียง",
+            "en-en": "Tho is inspired by a Chinese villager from Phang Phua, Sathing Phra District, Songkhla Province. Characteristics: small head, large protruding eyes, wide lower lip that tucks inward, and a large upper torso, though his stomach is not sagging. He often wears a hat with a tuft on top or short-rolled trousers and carries a cleaver as his weapon. He loves singing songs related to food. Personality: gluttonous and more interested in food than anything else, cowardly, and easily frightened. He speaks humorously and often twists every topic to relate to food. The character was first featured in Nang Talung performances by Sang Tho and later became popular as a lead comedic role through Nakhonrin Chatong’s troupe."
+        }
+    }
+]
+
+    },
+    {
+        "id": 7,
+        "name": {
+            "th-th": "จีนจัง",
+            "en-en": "Jin Jang"
+        },
+        "title": {
+            "th-th": "จีนจัง",
+            "en-en": "Jin Jang"
+        },
+        "description": {
+            "th-th": "ตัวละครที่มีความสนุกสนาน",
+            "en-en": "A fun and lively character"
+        },
+        "images": [
+            "./pic/m7/225690.jpg",
+            "./pic/m7/product7-2.jpg",
+            "./pic/m7/product7-3.jpg"
+        ],
+"details": [
+    {
+        "image": "./pic/m7/225690.jpg",
+        "text": {
+            "th-th": "จีนจัง เดิมชื่อว่า เจ๊กโกก ประกอบอาชีพขายน้ำชาอยู่ที่สี่แยกโรงเรียนอนุบาลสงขลา เป็นคนจีนจากเมืองจีน พูดภาษาไทยไม่ชัด รูปร่างผอมสูง ขี้โรค แต่งกายด้วยกางเกงขาก๊วย ขาหนึ่งปล่อย อีกขาหนึ่งพับขึ้นมา สวมเสื้อฮ่อมแบบจีน หัวมีหางเปียแบบแมนจู มือถือกล้องยาสูบ เป็นคนซื่อสัตย์ โกรธง่ายหายเร็ว ขยันขันแข็ง ชอบบ่น และพูดตรงไปตรงมาโดยไม่เกรงใจใคร ไม่สนใจเรื่องการเมือง สนใจแต่การทำมาหากิน บางครั้งความซื่อของเขาทำให้ถูกหลอกลวงโดยตัวตลกอื่นได้ง่าย",
+            "en-en": "Jin Jang, originally named Jek Kok, was a tea vendor at an intersection near Songkhla Kindergarten. He was a Chinese immigrant from mainland China who spoke Thai with difficulty. Characteristics: tall and thin with a frail build. His attire included loose trousers, with one leg rolled up, and a traditional Chinese-style shirt. He wore a Manchu-style queue hairstyle and carried a smoking pipe. Personality: honest, quick-tempered but forgiving, hardworking, and straightforward in speech, often without regard for politeness. He had no interest in politics, focusing solely on his livelihood. His naivety sometimes made him an easy target for tricks by other clown characters."
+        }
+    }
+]
+
+    },
+    {
+        "id": 8,
+        "name": {
+            "th-th": "ปราบ",
+            "en-en": "Prab"
+        },
+        "title": {
+            "th-th": "ปราบ",
+            "en-en": "Prab"
+        },
+        "description": {
+            "th-th": "ตัวละครที่มีบทบาทในหนังตะลุง",
+            "en-en": "A significant character in shadow puppet"
+        },
+        "images": [
+            "./pic/m8/225691.jpg",
+            "./pic/m8/product8-2.jpg",
+            "./pic/m8/product8-3.jpg"
+        ],
+"details": [
+    {
+        "image": "./pic/m8/225691.jpg",
+        "text": {
+            "th-th": "ปราบ หรืออ้ายปราบ มักเป็นทหารของฝ่ายยักษ์ อ้ายปราบเป็นคนที่มีปัญหาจมูกจากริดสีดวง ทำให้จมูกบี้และเสียงพูดอู้อี้ ชอบกินแกงปลาไหล แกงปลาหมอ และแกงตะพาบน้ำ ซึ่งล้วนเป็นอาหารที่กระตุ้นโรคริดสีดวงจมูก หากมีใครพูดเสียงอู้อี้ใกล้ ๆ จะโกรธทันที เพื่อน ๆ จึงมักล้อเลียนเสียงและเรื่องจมูกของเขา ซึ่งมักเป็นเหตุให้ทะเลาะกัน ลักษณะ รูปร่างผอม นุ่งกางเกงขาสั้น ไม่สวมเสื้อ ตัดผมสั้น หวีแสกกลาง มือข้างหนึ่งถือหวี อีกข้างหนึ่งถือกระจก เป็นคนสำรวย ใส่ใจการแต่งกายและทรงผมมากกว่าสิ่งอื่น ชอบแอบดูกระจกและหวีผมอยู่ตลอดเวลา แม้ตอนรบก็ต้องหยุดเพื่อหวีผม นิสัย ไม่เจ้าชู้ เพราะสนใจตัวเองมากกว่าคนอื่น",
+            "en-en": "Prab, also known as Ai Prab, is often depicted as a soldier for the demon faction. He has a nasal condition caused by polyps, giving him a flattened nose and a muffled voice. He enjoys eating eel curry, fish curry, and softshell turtle curry, all of which aggravate his nasal condition. If anyone speaks with a muffled voice around him, he becomes angry, leading his friends to frequently tease him about his voice and nose, often resulting in quarrels. Characteristics: thin build, short pants, no shirt, short hair with a middle parting, holding a comb in one hand and a mirror in the other. He is vain, paying more attention to his grooming and hairstyle than anything else. He often stops to look in the mirror and comb his hair, even during battles. Personality: not flirtatious, as he is more focused on himself than on others."
+        }
+    }
+]
+
+    }
+]
