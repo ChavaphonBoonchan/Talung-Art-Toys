@@ -4,22 +4,25 @@ body {
     margin: 0;
     padding: 0;
     color: var(--text-color);
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(0, 0, 0, 0.8));
+
     background-attachment: fixed;
     background-size: cover;
     transition: background-color 0.3s, color 0.3s;
+
+
+
+    background-color: var(--background-color);
 }
 
 /* ตัวแปร CSS สำหรับธีม */
+/* Updated styles.css */
 :root {
-    --white: #ffffff;
-    --black: #000000;
-    --gray-light: rgba(255, 255, 255, 0.8);
-    --gray-dark: rgba(0, 0, 0, 0.8);
-    --text-color: rgba(0, 0, 0, 0.8);
-    --accent-color: rgba(255, 255, 255, 0.7);
-    --content-bg: rgba(255, 255, 255, 0.5);
-    --border-color: rgba(255, 255, 255, 0.2);
+    --background-color: #f1ddaa;
+    --button-bg: #d4a373;
+    --button-hover-bg: #c18445;
+    --text-color: #5c4033;
+    --header-bg: #f2e0c9;
+    --content-bg: #f1ead9;
 }
 
 .dark-theme {
@@ -37,13 +40,17 @@ body {
 .header {
     text-align: center;
     padding: 20px;
-    background: var(--content-bg);
+
     color: var(--text-color);
     border-bottom: 1px solid var(--border-color);
     backdrop-filter: blur(10px);
     position: relative;
     z-index: 10;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+
+    background-color: var(--header-bg);
+
 }
 
 .header h1 {
@@ -51,6 +58,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: var(--text-color);
+    
 }
 
 .header p {
@@ -100,14 +108,22 @@ body {
 
 /* Content Section */
 .content-section {
-    padding: 60px 20px;
+ 
     text-align: center;
-    background: var(--content-bg);
+   
     color: var(--text-color);
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10px);
     transition: background 0.3s, color 0.3s;
+
+
+    background-color: var(--content-bg);
+    padding: 40px 20px; /* 60 20*/
+
+ 
+    margin: 20px;
+
 }
 
 .content-section h1, .content-section h2 {
